@@ -1527,4 +1527,5 @@ Return spots filtered by query parameters.
     ```
 #   b - m - p r o j e c t  
  #   b - m  
+ #   b - m - p r o j e c t  
  
